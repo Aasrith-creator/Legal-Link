@@ -1,1 +1,0 @@
-Legal Link is a robust desktop application that allows users to explore lawyer profiles across various specializations and manage user authentication seamlessly. The project combines a user-friendly interface with a MySQL database backend to deliver a comprehensive tool for legal data exploration and user management.
